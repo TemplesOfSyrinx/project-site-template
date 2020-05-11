@@ -1,2 +1,2 @@
-# project-site-template
-Project Site Template
+# replace with project name
+replace with project description
